@@ -1,5 +1,7 @@
 # PopoverDemo
 
+![popover-scrolling-demo](https://user-images.githubusercontent.com/6894653/96320323-f26b6d80-0fc6-11eb-9877-4f1c75c092db.gif)
+
 To run:
 
 1. Clone
